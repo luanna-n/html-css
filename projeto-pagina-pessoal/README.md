@@ -6,3 +6,4 @@ Este repositório contém uma página pessoal. O projeto foi concebido pelo Luca
 
 Atualizei o projeto inicial e agora temos uma página alinhada com a campanha **"Believe in Wonder"**, em comemoração aos 80 anos da personagem **Mulher Maravilha** :crossed_swords:
 
+![pagina_pessoal_900_600](C:\workspace\PROJETOS-DIO\pagina_pessoal_900_600.png)
